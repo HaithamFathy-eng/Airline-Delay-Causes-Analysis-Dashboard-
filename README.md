@@ -1,6 +1,6 @@
 # The File was too large, so it is splitted into 6 zip files
 
-# ✈️ Power BI Lab 5 – Airline Delay Causes Dashboard
+# ✈️ Power BI – Airline Delay Causes Dashboard
 
 This project was developed as part of my **ITI Scholarship** to analyze and visualize airline delay patterns using **Microsoft Power BI** and real-world data from **Kaggle**.
 
